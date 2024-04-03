@@ -1,3 +1,6 @@
 dist/
 build/
+example/dist
+example/build
 node_modules/
+example/node_modules/
